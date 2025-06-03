@@ -4,3 +4,9 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
  Será desenvolvindo entre ALKTECNO & EXABOSOFTWARE um sistema em Web com PHP,Laravel e MYSQL;
 ###  Funcionalidades:
  Checkout, Tela de Produto,Catalogo, Home com Banner 
+ ##### melhorias do projeto:
+  1. Melhoria = CSS,HTML 
+  2. Melhoria = PHP
+  3. Melhoria = Laravel
+  4. Melhoria = MYSQL
+  
