@@ -11,4 +11,4 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
   4. Melhoria = MYSQL
   ## Observações sobre o Sistema:
    *Cuidaremos*,**que nossos clientes sejam melhores atendidos pelo** *Sistema*
-   
+   _Nosso objeto principal é atender as necessidades de nossos clientes_
