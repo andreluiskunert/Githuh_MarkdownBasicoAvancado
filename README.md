@@ -12,3 +12,4 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
   ## Observações sobre o Sistema:
    *Cuidaremos*,**que nossos clientes sejam melhores atendidos pelo** *Sistema*
    _Nosso __objeto principal__ é **atender as necessidades** de nossos clientes_
+   **Pedimos aos _Clientes_ entrem em contato conosco se for algum problema no _Sistemas_, estaremos prontos pra atende-lo**
