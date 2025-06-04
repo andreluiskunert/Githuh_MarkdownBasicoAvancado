@@ -9,7 +9,12 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
   2. Melhoria = PHP
   3. Melhoria = Laravel
   4. Melhoria = MYSQL
+  
   ## Observações sobre o Sistema:
    *Cuidaremos*,**que nossos clientes sejam melhores atendidos pelo** *Sistema*
    _Nosso __objeto principal__ é **atender as necessidades** de nossos clientes_
    **Pedimos aos _Clientes_ entrem em contato conosco se for algum problema no _Sistemas_, estaremos prontos pra atende-lo**
+## nossos contatos são:
+  * whats_(046)9 9113-2431_
+  * Emails:_alktecno25@gmail.com_ e _exabsoftware25@gmail.com_
+  
