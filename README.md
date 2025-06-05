@@ -37,3 +37,4 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
 [Google](https://www.google.com) 
 [Plataforma de estudo de Programação](https://www.horadecodar.com.br)
 Suporte Online: https://www.github.com/matheusbattisti
+[![logo ALKTECNO](https://persornalweb.netlify.app/img/logo.svg)](https://persornalweb.netlify.app/)
