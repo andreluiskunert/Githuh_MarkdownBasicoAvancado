@@ -33,3 +33,5 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
 ### logo do PHP
 ![logo do PHP](https://www.php.net/images/logos/new-php-logo.svg)
 *Logo de uma das principais linguagens que será usada no projeto*
+### Links de apoio em pesquisas:
+[Google](https://www.google.com) 
