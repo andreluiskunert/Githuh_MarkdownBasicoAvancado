@@ -27,6 +27,6 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
 3. Sistema de bônus para atrai mais _clientes_ 
     1. cartão bônus _quanto mais o clientes usa mais ganha_ seja em **R$**  ou **$** ou qualquer **moeda**
     2. sempre facilitar a vida do cliente..
-## Logo da Empresa ALKTECNO 
-![Logo_a_ALKTECNO](Githuh_MarkdownBasicoAvancado/img/LogoALKTECNO.png)
+### Logo da Empresa ALKTECNO 
+![logo ALKTECNO](img/LogoALKTECNO.png)
 ver de noite porque não rodou
