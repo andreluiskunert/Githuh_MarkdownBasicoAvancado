@@ -35,3 +35,4 @@ Este é um e-commerce para empresa ALKTECNO e P/ a EXABSOFTWARE feito em PHP, LA
 *Logo de uma das principais linguagens que será usada no projeto*
 ### Links de apoio em pesquisas:
 [Google](https://www.google.com) 
+[Plataforma de estudo de Programação](https://www.horadecodar.com.br)
